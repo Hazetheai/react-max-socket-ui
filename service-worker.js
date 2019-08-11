@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-max-socket-ui/precache-manifest.88c1150f74ccf6070bd3fa58c8c3cc04.js"
+  "/react-max-socket-ui/precache-manifest.a7294e69a2e2943269d1b1e966e65c60.js"
 );
 
 self.addEventListener('message', (event) => {
