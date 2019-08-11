@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f8d8099fbaf88283f1515b69c9e5d696",
+    "revision": "a0a0a8782646c3614d5f81fb5480ae70",
     "url": "/react-max-socket-ui/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-max-socket-ui/static/js/2.e1bb80ef.chunk.js"
   },
   {
-    "revision": "879edaf0cbcf8a581de6",
-    "url": "/react-max-socket-ui/static/js/main.700fdfc2.chunk.js"
+    "revision": "c6105ffd5f8cd3e68c25",
+    "url": "/react-max-socket-ui/static/js/main.24f983d3.chunk.js"
   },
   {
     "revision": "b379816eab3a79e16c29",
