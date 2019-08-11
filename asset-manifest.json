@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/react-max-socket-ui/static/js/main.e9650745.chunk.js",
-    "main.js.map": "/react-max-socket-ui/static/js/main.e9650745.chunk.js.map",
+    "main.js": "/react-max-socket-ui/static/js/main.635de187.chunk.js",
+    "main.js.map": "/react-max-socket-ui/static/js/main.635de187.chunk.js.map",
     "runtime~main.js": "/react-max-socket-ui/static/js/runtime~main.078fd862.js",
     "runtime~main.js.map": "/react-max-socket-ui/static/js/runtime~main.078fd862.js.map",
-    "static/js/2.a24ca26f.chunk.js": "/react-max-socket-ui/static/js/2.a24ca26f.chunk.js",
-    "static/js/2.a24ca26f.chunk.js.map": "/react-max-socket-ui/static/js/2.a24ca26f.chunk.js.map",
+    "static/js/2.e1bb80ef.chunk.js": "/react-max-socket-ui/static/js/2.e1bb80ef.chunk.js",
+    "static/js/2.e1bb80ef.chunk.js.map": "/react-max-socket-ui/static/js/2.e1bb80ef.chunk.js.map",
     "index.html": "/react-max-socket-ui/index.html",
-    "precache-manifest.70421c4b2fd85e0bd89881503cac87b6.js": "/react-max-socket-ui/precache-manifest.70421c4b2fd85e0bd89881503cac87b6.js",
+    "precache-manifest.7804ae8b911edfe9bc009cb36ef6cc57.js": "/react-max-socket-ui/precache-manifest.7804ae8b911edfe9bc009cb36ef6cc57.js",
     "service-worker.js": "/react-max-socket-ui/service-worker.js"
   }
 }
