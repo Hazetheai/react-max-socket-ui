@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/react-max-socket-ui/static/js/main.635de187.chunk.js",
-    "main.js.map": "/react-max-socket-ui/static/js/main.635de187.chunk.js.map",
+    "main.js": "/react-max-socket-ui/static/js/main.8b4f222f.chunk.js",
+    "main.js.map": "/react-max-socket-ui/static/js/main.8b4f222f.chunk.js.map",
     "runtime~main.js": "/react-max-socket-ui/static/js/runtime~main.078fd862.js",
     "runtime~main.js.map": "/react-max-socket-ui/static/js/runtime~main.078fd862.js.map",
     "static/js/2.e1bb80ef.chunk.js": "/react-max-socket-ui/static/js/2.e1bb80ef.chunk.js",
     "static/js/2.e1bb80ef.chunk.js.map": "/react-max-socket-ui/static/js/2.e1bb80ef.chunk.js.map",
     "index.html": "/react-max-socket-ui/index.html",
-    "precache-manifest.7804ae8b911edfe9bc009cb36ef6cc57.js": "/react-max-socket-ui/precache-manifest.7804ae8b911edfe9bc009cb36ef6cc57.js",
+    "precache-manifest.88c1150f74ccf6070bd3fa58c8c3cc04.js": "/react-max-socket-ui/precache-manifest.88c1150f74ccf6070bd3fa58c8c3cc04.js",
     "service-worker.js": "/react-max-socket-ui/service-worker.js"
   }
 }
