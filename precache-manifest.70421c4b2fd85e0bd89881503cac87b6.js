@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fff1fffded11cc6af0b86f92796a2a00",
+    "revision": "2ffb498404b00b90988def31c1b7a365",
     "url": "/react-max-socket-ui/index.html"
   },
   {
-    "revision": "e8cfb53bb58a05d577d2",
-    "url": "/react-max-socket-ui/static/js/2.afc2c9d8.chunk.js"
+    "revision": "7235ad80fd7b01aeb5b9",
+    "url": "/react-max-socket-ui/static/js/2.a24ca26f.chunk.js"
   },
   {
     "revision": "02f3b02a934ea556657a",
